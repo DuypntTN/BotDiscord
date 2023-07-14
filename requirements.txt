@@ -1,0 +1,26 @@
+aiohttp @ file:///D:/bld/aiohttp_1649013309284/work
+aiosignal @ file:///home/conda/feedstock_root/build_artifacts/aiosignal_1667935791922/work
+async-timeout @ file:///home/conda/feedstock_root/build_artifacts/async-timeout_1640026696943/work
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1683424013410/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///D:/bld/click_1689279580519/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+discord.py @ file:///home/conda/feedstock_root/build_artifacts/discord.py_1687772269335/work
+distlib==0.3.6
+filelock==3.12.0
+frozenlist @ file:///C:/b/abs_2bb5uzghsi/croot/frozenlist_1670004511812/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+multidict @ file:///C:/b/abs_6cx_8w3cv2/croot/multidict_1665674238352/work
+packaging==23.1
+platformdirs==3.5.1
+ply==3.11
+PyQt-builder==1.15.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1677227146928/work
+sip==6.7.9
+tomli==2.0.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
+virtualenv==20.23.0
+yarl @ file:///D:/bld/yarl_1648966692031/work
