@@ -1,15 +1,17 @@
 import asyncio
 import os
-
+from dotenv import load_dotenv
 import discord
 from discord.ext import commands
+
+load_dotenv()
 
 intents = discord.Intents.all()
 intents.members = True
 intents.typing = True
 intents.presences = True
 
-TOKEN = 'MTEyOTI1NzE4MjU0MjcwMDY4NA.GRkflN.Kj_44m8kDJSILHabI1MeessDjtY_0GhCJr6-JI'
+TOKEN = os.environ['DISCORD_TOKEN']
 PREFIX = '+'
 
 bot = commands.Bot(command_prefix=PREFIX, intents=intents)
